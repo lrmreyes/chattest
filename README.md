@@ -1,6 +1,6 @@
 # Project 2
 
-Web Programming with Python and JavaScript
+*Web Programming with Python and JavaScript*
 
 This project allows a user to choose (and change) a display name,
 then post messages to a channel. New, unique channels can be added
@@ -13,10 +13,10 @@ The personal touch added was the ability to delete messages.
 This allowed the user to delete a message, as long as the display name of
 that user matched the username in that message.
 
-index.html - Template and layout of website
+index.html - Template and layout of website  
 application.py - Stores all the channels and messages and updates them
 
-Static files:
-favicon.ico
-index.js - Gets user inputs and updates outputs
+Static files:  
+favicon.ico  
+index.js - Gets user inputs and updates outputs  
 style.css - Custom CSS
